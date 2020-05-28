@@ -1,7 +1,4 @@
 import axios from "axios";
-import { DialogContent } from "@material-ui/core";
-import { CountryPicker } from "../components";
-import { common } from "@material-ui/core/colors";
 
 const url = "https://covid19.mathdro.id/api";
 

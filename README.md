@@ -1,6 +1,6 @@
 COVID-19 tracking application
 
-using API in project - https://covid19.mathdro.id/api
+API used in the project - https://covid19.mathdro.id/api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
