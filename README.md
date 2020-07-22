@@ -1,4 +1,5 @@
 COVID-19 tracking application
+Live version - https://corona-taracker-app.netlify.app
 
 API used in the project - https://covid19.mathdro.id/api
 
